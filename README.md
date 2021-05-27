@@ -18,8 +18,8 @@ You can fine the dataset on Kaggle - https://www.kaggle.com/heeraldedhia/groceri
 
 It is a recommendation system model, which helps us to recommend the books which are more interesting on the basis of Pearson's correlation.
 
-If you want an overview of Pearson's correlation, check out my article - https://yashguptacorrelations.blogspot.com/2021/05/pearsons-correlation.html
+Check out my article on Pearson's correaltion - https://yashguptacorrelations.blogspot.com/2021/05/pearsons-correlation.html
 
-The dataset contains 3 CSV files for USER, RATINGS and BOOKS.
+The dataset contains 3 CSV files each one for USER, RATINGS and BOOKS.
 
 You can find the dataset on - http://www2.informatik.uni-freiburg.de/~cziegler/BX/
